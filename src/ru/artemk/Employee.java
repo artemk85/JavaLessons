@@ -1,3 +1,4 @@
+/*
 package ru.artemk;
 
 public class Employee {
@@ -46,3 +47,4 @@ public class Employee {
                 "\tОклад - %.2f \u20BD.", this.surname, this.department, this.age, this.salary));
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package ru.artemk;
 
 class BankAccount {
@@ -64,4 +65,4 @@ public class Test5 {
         emp2.upSalary();
         emp2.info();
     }
-}
+}*/

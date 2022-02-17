@@ -1,3 +1,4 @@
+/*
 package ru.test;
 import ru.artemk.*;
 
@@ -13,3 +14,4 @@ public class Test {
 
     }
 }
+*/
